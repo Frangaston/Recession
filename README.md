@@ -1,2 +1,2 @@
 # Recession
-This project analyzes the 2001 and 2008 recession period. 
+This analysis compares the 2001 and 2008 recessions, focusing on key economic indicators: the Consumer Price Index (CPI) and housing costs. In 2001, CPI showed moderate inflation with minor fluctuations in housing costs, indicating relatively stable consumer spending despite economic slowdown. However, in 2008, CPI trends were marked by extreme volatility, especially in housing costs, as the financial crisis led to plummeting property values and a drop in homeownership rates. The 2008 recession saw a sharp decline in both CPI growth and housing market stability, highlighting the more significant impact on consumer spending and financial security.
